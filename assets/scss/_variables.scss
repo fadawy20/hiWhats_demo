@@ -1,0 +1,30 @@
+$black: #000;
+$white: #fff;
+$text:#3F3D56;
+$mainColor: #128C7E;
+$secondary-mainColor: #09463F;
+$green: #1CD244;
+$light-gray: #f9f4f4;
+$light-mainColor: #f0fffb;
+$transition: all 0.5s ease-in;
+
+@mixin prefixes($property, $attributes) {
+    -webkit-#{$property}: $attributes;
+    -moz-#{$property}: $attributes;
+    -ms-#{$property}: $attributes;
+    -o-#{$property}: $attributes;
+    #{$property}: #{$attributes};
+}
+
+
+%box-shadow {
+    @include prefixes(box-shadow, 4px 1px 3px 0px $mainColor);
+}
+
+%transition {
+    transition: $transition;
+}
+
+%mainColor-gradient {
+    background: linear-gradient($mainColor, $secondary-mainColor);
+}

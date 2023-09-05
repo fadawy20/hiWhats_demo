@@ -1,0 +1,309 @@
+{
+    "nav": {
+        "lang": {
+            "ar": "Arabic",
+            "en": "English"
+        },
+        "login": "Log In"
+    },
+    "home": {
+        "title": "home",
+        "seo": {
+            "title": "home",
+            "description": "home description",
+            "keywords": "home keywords"
+        },
+        "hero_section": {
+            "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit, Lorem ipsum Lorem ipsum Lorem ipsum",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "video": "Watch a video"
+        },
+        "section1": {
+            "title": "Features",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum",
+            "f1-title": "Main Subject",
+            "f1-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f2-title": "Main Subject",
+            "f2-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f3-title": "Main Subject",
+            "f3-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f4-title": "Main Subject",
+            "f4-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+        },
+        "plan": {
+            "title": "Pricing",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum"
+        },
+        "section2": {
+            "title": "About Hiwhatss",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum",
+            "text1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum,Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum",
+            "text2": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum,Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum"
+        },
+        "section3": {
+            "title": "How does Hiwhatss work?",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum",
+            "f1-title": "Main Subject",
+            "f1-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f2-title": "Main Subject",
+            "f2-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f3-title": "Main Subject",
+            "f3-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f4-title": "Main Subject",
+            "f4-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+        },
+        "section4": {
+            "title": "Screenshots from Hiwhatss",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum"
+        },
+        "questions": {
+            "q1": "Add the question here",
+            "a1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q2": "Add the question here",
+            "a2": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q3": "Add the question here",
+            "a3": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q4": "Add the question here",
+            "a4": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+        },
+        "linked-platform": {
+            "title": "Linked Platform",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum"
+        },
+        "start": {
+            "title": "Main Subject",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum,Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum"
+        }
+    },
+    "features": {
+        "title": "features",
+        "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "seo": {
+            "title": "features",
+            "description": "features description",
+            "keywords": "features keywords"
+        },
+        "section": {
+            "title1": "linked accounts",
+            "subtitle1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "title2": "Single Messages",
+            "subtitle2": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "title3": "Group Messages",
+            "subtitle3": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "title4": "Auto Reply",
+            "subtitle4": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "title5": "Samrt Robot",
+            "subtitle5": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "title6": "Contacts list",
+            "subtitle6": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "title7": "File Manager",
+            "subtitle7": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "title8": "Employees",
+            "subtitle8": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "title9": "Linked Platforms",
+            "subtitle9": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+        },
+        "start": {
+            "title": "Main Subject",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum,Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum"
+        }
+    },
+    "about": {
+        "title": "about",
+        "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "seo": {
+            "title": "about",
+            "description": "about description",
+            "keywords": "about keywords"
+        },
+        "section1": {
+            "title": "Why choose Hiwhatts?",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f1-title": "Main Subject",
+            "f1-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f2-title": "Main Subject",
+            "f2-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f3-title": "Main Subject",
+            "f3-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f4-title": "Main Subject",
+            "f4-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "f5-title": "Main Subject",
+            "f5-subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+        },
+        "section2": {
+            "title": "About Hiwhatss",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "t": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "sub-t1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "sub-t2": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+        },
+        "section3": {
+            "title": "Common Questions",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+        },
+        "questions": {
+            "q1": "Add the question here",
+            "a1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q2": "Add the question here",
+            "a2": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q3": "Add the question here",
+            "a3": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q4": "Add the question here",
+            "a4": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q5": "Add the question here",
+            "a5": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q6": "Add the question here",
+            "a6": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q7": "Add the question here",
+            "a7": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+            "q8": "Add the question here",
+            "a8": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+        },
+        "start": {
+            "title": "Main Subject",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum,Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum"
+        }
+    },
+    "pricing": {
+        "title": "pricing",
+        "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "seo": {
+            "title": "pricing",
+            "description": "pricing description",
+            "keywords": "pricing keywords"
+        },
+        "plan": {
+            "monthly": "Monthly",
+            "annual": "Annual",
+            "includeBasicFeatures": "Include Basic Features :",
+            "whatsAppAccounts": "Whats App Accounts",
+            "dailyMessage": "Daily Message",
+            "monthlyMessage": "Monthly Message",
+            "messageGroups": "Message Groups",
+            "contactList": "Contact List",
+            "contactsinList": "Contacts in List",
+            "storageSize": "Storage Size",
+            "smartRobot": "Smart Robot",
+            "singleChats": "Single Chats",
+            "employees": "Employees",
+            "fileSize": "File Size",
+            "subscribe": "Subscribe",
+            "messages": "Messages"
+        },
+        "SAR": "SAR",
+        "table": {
+            "subject1": "subject",
+            "subject2": "subject",
+            "subject3": "subject",
+            "f1": "Lorem ipsum, dolor",
+            "f2": "Lorem ipsum, dolor",
+            "f3": "Lorem ipsum, dolor",
+            "f4": "Lorem ipsum, dolor",
+            "f5": "Lorem ipsum, dolor",
+            "f6": "Lorem ipsum, dolor",
+            "f7": "Lorem ipsum, dolor",
+            "f8": "Lorem ipsum, dolor",
+            "f9": "Lorem ipsum, dolor",
+            "f10": "Lorem ipsum, dolor",
+            "f11": "Lorem ipsum, dolor",
+            "f12": "Lorem ipsum, dolor"
+        },
+        "start": {
+            "title": "Main Subject",
+            "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum,Lorem ipsum, dolor sit amet consectetur adipisicing elit,Lorem ipsum"
+        }
+    },
+    "contact-us": {
+        "title": "contact-us",
+        "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "seo": {
+            "title": "contact-us",
+            "description": "contact-us description",
+            "keywords": "contact-us keywords"
+        },
+        "name": "Full Name",
+        "email": "E-mail",
+        "message": "Leave a message",
+        "loading": "Loading...",
+        "successSnet": "Your message sent successfully",
+        "failSent": "Cannot send your message now. Try again later",
+        "send": "Send"
+    },
+    "terms-and-conditions": {
+        "title": "Terms and Conditions",
+        "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "seo": {
+            "title": "Terms and Conditions",
+            "description": "Terms and Conditions description",
+            "keywords": "Terms and Conditions keywords"
+        },
+        "title1": "Main Subject",
+        "subtitle1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title2": "Main Subject",
+        "subtitle2": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title3": "Main Subject",
+        "subtitle3": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title4": "Main Subject",
+        "subtitle4": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title5": "Main Subject",
+        "subtitle5": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title6": "Main Subject",
+        "subtitle6": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title7": "Main Subject",
+        "subtitle7": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title8": "Main Subject",
+        "subtitle8": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+    },
+    "privacy-policy": {
+        "title": "Privacy Policy",
+        "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "seo": {
+            "title": "Privacy Policy",
+            "description": "Privacy Policy description",
+            "keywords": "Privacy Policy keywords"
+        },
+        "title1": "Main Subject",
+        "subtitle1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title2": "Main Subject",
+        "subtitle2": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title3": "Main Subject",
+        "subtitle3": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title4": "Main Subject",
+        "subtitle4": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title5": "Main Subject",
+        "subtitle5": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title6": "Main Subject",
+        "subtitle6": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title7": "Main Subject",
+        "subtitle7": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "title8": "Main Subject",
+        "subtitle8": "Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum, dolor sit amet consectetur adipisicing elit"
+    },
+    "no-page": {
+        "title": "Page Not Found",
+        "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "text": "It looks like you have requested a page that does not exist or has been deleted, you can return to the home page",
+        "home": "Go To Home Page"
+    },
+    "no-internet": {
+        "title": "offline",
+        "subtitle": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "text": "You seem to be offline, please check your internet connection and try again",
+        "try-again": "Try Again"
+    },
+    "footer": {
+        "slogan": "Lorem ipsum, dolor sit amet consectetur adipisicing elit",
+        "links": "Quick links",
+        "register": "Register",
+        "account": "New Account",
+        "reserved": "All Rights Reserved",
+        "hiwhatss": "Hiwahtss"
+    },
+    "shared": {
+        "start": "Start your free trial"
+    }
+}

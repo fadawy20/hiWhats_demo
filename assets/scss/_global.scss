@@ -1,0 +1,347 @@
+@import '../scss/variables';
+
+@font-face {
+    font-family: "Tajawal";
+    src: url("./font/Tajawal-Regular.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("./font/Poppins-Regular.ttf") format("opentype");
+}
+
+*:lang(ar):not(i) {
+    font-family: 'Tajawal', sans-serif;
+    ;
+}
+
+*:not(i) {
+    font-family: 'Poppins', sans-serif;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.p_mainColor {
+    color: $mainColor;
+}
+
+.custom-me-1 {
+    margin-right: 0.25rem;
+    margin-left: unset;
+
+    &:lang(ar) {
+        margin-left: 0.25rem;
+        margin-right: unset;
+    }
+}
+
+.text-align {
+    text-align: start;
+}
+
+.modal-content {
+    border-radius: 30px;
+    max-width: 650px !important;
+    margin: auto;
+}
+
+.modal-backdrop {
+    width: 100%;
+    height: 100%;
+}
+
+.diff-card {
+    border-radius: 70px;
+    background: $light-mainColor;
+
+    &.diff-border-radius {
+        border-radius: 30px;
+    }
+}
+
+.btn-mainColor {
+    @extend .my-btn, %mainColor-gradient;
+
+    a {
+        color: $white;
+    }
+
+    &:hover {
+        background: $white;
+
+        a {
+            color: $mainColor;
+        }
+    }
+}
+
+
+.my-btn {
+    @extend %transition;
+    background: $white;
+
+    a {
+        color: $mainColor;
+    }
+
+    font-size: 16px;
+    padding:8px 20px;
+    border: none;
+    border-radius: 30px;
+
+    &:hover {
+        @extend %mainColor-gradient;
+        transform: scale(1.05);
+
+        a {
+            color: $white;
+        }
+    }
+}
+
+// .my-btn {
+//     background: white;
+//     border: none;
+//     border-radius: 30px;
+
+//     a {
+//         color: $mainColor;
+//     }
+
+//     font-size: 16px;
+//     font-weight: 100;
+//     overflow: hidden;
+//     padding: 10px 30px;
+//     position: relative;
+//     text-decoration: none;
+//     transition: .2s all ease-in-out;
+//     z-index: 0;
+
+//     &::after {
+//         @extend %mainColor-gradient;
+//         border-radius: 30px;
+//         content: '';
+//         display: block;
+//         height: 100%;
+//         width: 100%;
+//         position: absolute;
+//         left: 0;
+//         top: 0;
+//         transform: translate(-100%, 0) rotate(10deg);
+//         transform-origin: bottom left;
+//         transition: .2s;
+//         transform: ease-out;
+//         z-index: -1;
+//     }
+
+//     &:hover::after {
+//         transform: translate(0, 0);
+//     }
+
+//     &:hover {
+//         a {
+//             color: $white;
+//         }
+
+//         transform: scale(1.05);
+//     }
+// }
+
+// .btn-mainColor {
+//     @extend .my-btn;
+//     background: linear-gradient($mainColor, $secondary-mainColor);
+//     border: none;
+//     a {
+//         color: $white;
+//     }
+//     &::after {
+//         content: '';
+//         background: $white;
+//         border: 1px solid $mainColor;
+//     }
+//     &:hover {
+//         border: 1px solid transparent;
+//         a {
+//             color: $mainColor;
+//         }
+//         transform: scale(1.05);
+//     }
+// }
+
+.btn-add {
+    @extend .my-btn;
+    background: rgba(#298470, 30%);
+    color: $mainColor;
+
+    &:hover {
+        @extend %mainColor-gradient;
+        color: $white;
+    }
+
+}
+
+.bg-mainColor-light {
+    background: rgba(#298470, 30%);
+}
+
+.text-color {
+    color: $text;
+}
+
+.circles {
+    .circle {
+        @extend %mainColor-gradient;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-inline: 2px;
+    }
+
+    .diff {
+        background: $white;
+    }
+}
+
+.custom-card {
+    border: 2px solid $mainColor;
+    border-radius: 30px;
+    background: $light-mainColor;
+}
+
+.p_mainColor {
+    color: $mainColor;
+}
+
+.bg-main {
+    @extend %mainColor-gradient;
+}
+
+.fw-18 {
+    font-size: 18px;
+}
+
+.fw-16 {
+    font-size: 16px;
+}
+
+.toast-error {
+    background-color: #ffe7e6;
+    color: #ff5757 !important;
+    border-left: 7px solid #ff5757;
+    font-size: 18px;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cpath fill='rgb(255,87,87)' d='M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm121.6 313.1c4.7 4.7 4.7 12.3 0 17L338 377.6c-4.7 4.7-12.3 4.7-17 0L256 312l-65.1 65.6c-4.7 4.7-12.3 4.7-17 0L134.4 338c-4.7-4.7-4.7-12.3 0-17l65.6-65-65.6-65.1c-4.7-4.7-4.7-12.3 0-17l39.6-39.6c4.7-4.7 12.3-4.7 17 0l65 65.7 65.1-65.6c4.7-4.7 12.3-4.7 17 0l39.6 39.6c4.7 4.7 4.7 12.3 0 17L312 256l65.6 65.1z'/%3E%3C/svg%3E");
+}
+
+.toast-success {
+    background-color: #e4f8f0;
+    color: #1ea97c !important;
+    border-left: 7px solid #1ea97c;
+    font-size: 18px;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cpath fill='rgb(30, 169, 124)' d='M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z'/%3E%3C/svg%3E");
+}
+
+@media (max-width:992px) {
+
+    .fw-18 {
+        font-size: 16px;
+    }
+
+    .fw-16 {
+        font-size: 14px;
+    }
+
+    .modal-content {
+        max-width: 550px !important;
+    }
+
+    .toast-error {
+        font-size: 16px;
+    }
+
+    .toast-success {
+        font-size: 16px;
+    }
+}
+
+@media (max-width:767px) {
+    .circles {
+        .circle {
+            @extend %mainColor-gradient;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            margin-inline: 2px;
+        }
+    }
+
+    .my-btn {
+        font-size: 14px;
+    }
+
+
+    .text-align {
+        text-align: center;
+    }
+
+    .modal-content {
+        max-width: 300px !important;
+    }
+
+    .toast-error {
+        font-size: 14px;
+    }
+
+    .toast-success {
+        font-size: 14px;
+    }
+
+    .custom-order {
+        order: 4;
+    }
+}
+
+.sample-content {
+    text-align: left;
+
+    &:lang(ar) {
+        text-align: right;
+    }
+}
+
+.margin-auto {
+    margin-left: unset;
+    margin-right: auto;
+
+    &:lang(ar) {
+        margin-left: auto;
+        margin-right: unset;
+    }
+}
+
+*::-webkit-scrollbar {
+    width: .4em;
+    height: .4em;
+}
+
+*::-webkit-scrollbar-track {
+    @extend %mainColor-gradient;
+}
+
+*::-webkit-scrollbar-thumb {
+    @extend %mainColor-gradient;
+    border-radius: 10px;
+}
+
+.route {
+    min-height: 100vh;
+}
